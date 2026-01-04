@@ -1,5 +1,6 @@
 # Team Role Assignment System
 
+Made for teambuilding.tw, for use during minigames.
 This application is a web-based system for assigning roles to team members based on their skills, experience, and personality traits. It uses AI-powered assignment for optimal team composition.
   
 ## INSTRUCTIONS 
@@ -40,25 +41,6 @@ This application is a web-based system for assigning roles to team members based
    - When the team is full and assignment is complete
    - Go to Results page
    - View assigned roles, justifications, and scores
-
-**隐私政策**
-
-本项目不收集、存储或共享任何个人数据。
-
-- 我们不会追踪用户。
-- 我们不会向第三方出售或共享数据。
-
-所有用户交互均保持本地或基于会话，并且除应用程序功能严格必需的信息（例如，内存中的会话或团队数据）外，不会存储任何个人信息。
-
-本软件按“原样”提供，不提供任何明示或暗示的担保，包括但不限于适销性、适用于特定用途和非侵权的担保。
-
-使用本项目，即表示您确认并同意：
-
-我们不会收集任何个人身份信息 (PII)。
-
-如果您部署或修改本项目以用于更广泛的环境（例如，生产环境），您有责任确保您自己遵守当地的数据保护法。
-
-如果您对隐私有任何疑问或疑虑，请直接联系项目维护者。
 
 **Privacy Policy**
 
